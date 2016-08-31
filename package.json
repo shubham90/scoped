@@ -1,0 +1,26 @@
+{
+  "name": "@shbhawsi/scoped",
+  "version": "1.0.0",
+  "description": "This is a test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubham90/scoped.git"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "author": "Shubham Bhawsinka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubham90/scoped/issues"
+  },
+  "homepage": "https://github.com/shubham90/scoped#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
